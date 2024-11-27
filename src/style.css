@@ -1,0 +1,13 @@
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #b0b0b06b;
+}
